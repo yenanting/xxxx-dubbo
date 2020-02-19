@@ -1,4 +1,6 @@
-# xxxx-dubbo
+
+
+# xxxx-dubbo 从无到有搭建中小型互联网公司后台服务架构与运维架构
 基于dubbox实现rest代码案例
 1、本项目是基于本地搭建的私服，搭建修改连接到自己搭建的私服地址。
 2、dubbo-rest的为dubbo集成rest接口的项目结构。
